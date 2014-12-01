@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Level lvl="1">
+	<Line id="0" txt="this is the first line"/>
+	<Line id="1" txt="this is the second line"/>
+</Level>
